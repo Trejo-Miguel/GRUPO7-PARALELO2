@@ -1,5 +1,14 @@
-# Compiled class file
-*.class
+public class Proyecto{
+  public static void main(String args){
+     public string nombre;
+  
+  }
+  
+  
+
+
+}
+
 
 # Log file
 *.log
